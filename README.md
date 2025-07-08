@@ -133,12 +133,15 @@ Loyalty Points =
 ---
 
 ## 📸 Dashboard Snapshots
-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Copy%20of%20Analytics%20Position%20Case%20Study.xlsx
+-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Copy%20of%20Analytics%20Position%20Case%20Study.xlsx
 
-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213020.png
-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213057.png
-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213115.png
-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213129.png
+-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213020.png
+
+-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213057.png
+
+-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213115.png
+
+-https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213129.png
 
 ---
 
