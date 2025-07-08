@@ -133,8 +133,7 @@ Loyalty Points =
 ---
 
 ## 📸 Dashboard Snapshots
-
->https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Copy%20of%20Analytics%20Position%20Case%20Study.xlsx _Screenshots from the Power BI dashboard included in `/screenshots/` folder_:
+(https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Copy%20of%20Analytics%20Position%20Case%20Study.xlsx)
 
 (https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213020.png)
 - `monthly_leaderboard.png`
