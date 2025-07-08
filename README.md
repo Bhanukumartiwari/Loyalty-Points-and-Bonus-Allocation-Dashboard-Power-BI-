@@ -138,7 +138,7 @@ https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboar
 https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213020.png
 https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213057.png
 https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213115.png
-- `avg_deposit_kpis.png`
+https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213129.png
 
 ---
 
