@@ -136,7 +136,7 @@ Loyalty Points =
 
 >https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Copy%20of%20Analytics%20Position%20Case%20Study.xlsx _Screenshots from the Power BI dashboard included in `/screenshots/` folder_:
 
-- `slotwise_loyalty_points.png`
+(https://github.com/Bhanukumartiwari/Loyalty-Points-and-Bonus-Allocation-Dashboard-Power-BI-/blob/main/Screenshot%202025-07-08%20213020.png)
 - `monthly_leaderboard.png`
 - `bonus_distribution.png`
 - `avg_deposit_kpis.png`
